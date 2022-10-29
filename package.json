@@ -1,0 +1,16 @@
+{
+"name": "mc69",
+"theme": "mc69",
+"version": "10.3.4",
+"description": "mc69 สมัครสมาชิกเว็บไซต์คาสิโนเว็บตรง ไม่มีขั้นต่ำ แจกเครดิตฟรี",
+"keywords": [
+"mc69",
+"mc69 เครดิตฟรี",
+"mc69 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/mc69",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
